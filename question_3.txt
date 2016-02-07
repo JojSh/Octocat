@@ -1,1 +1,1 @@
-Explain what a branch is, in your own words
+In version control, a branch is a means to keep track of separate parts of a project that have diverged from the original, usually the master, branch. This allows you to make significant and/or experimental changes without the risk of negatively affecting the master. Once stable, these changes can be added (or merged) back into the original branch.
