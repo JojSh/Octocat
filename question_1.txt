@@ -1,1 +1,1 @@
-Explain what git clone does, in your own words
+The git clone command can be used to copy an entire project, including all subdirectories and history, from a remote location so that it might be reviewed and/or modified locally.
